@@ -1,1 +1,11 @@
 # ES6
+  - Variable (let, var, const)
+  - Class
+  - Destructure array object
+  - Spread
+  - Rest
+  - Template string
+  - Fuctions
+  - For in , For of, For each
+  - map, reduces, filter
+  - Promise ( Call back hell )
